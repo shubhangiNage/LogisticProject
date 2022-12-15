@@ -36,4 +36,6 @@ public class CustomerAllDocument {
 		@Lob
 		private byte[] sanctionLetter;
 		
+private String asd;
+private String hhh;
 }
