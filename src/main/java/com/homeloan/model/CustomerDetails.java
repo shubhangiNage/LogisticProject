@@ -37,6 +37,7 @@ public class CustomerDetails {
 	private long customerAadharNo;
 	private String customerGender;
 	private double customerIncome;
+private String why;
    private String loanStatus;
 	private String verificationn;
 	@OneToOne(cascade = CascadeType.ALL)
